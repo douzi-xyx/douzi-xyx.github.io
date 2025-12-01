@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AIs on 豆子de</title>
+    <link>https://&lt;username&gt;.github.io/ai/</link>
+    <description>Recent content in AIs on 豆子de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>xiangyanxiaaa@gmail.com (豆子)</managingEditor>
+    <webMaster>xiangyanxiaaa@gmail.com (豆子)</webMaster>
+    <copyright>© 2025 豆子</copyright>
+    <lastBuildDate>Mon, 01 Dec 2025 11:21:27 +0800</lastBuildDate><atom:link href="https://<username>.github.io/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
